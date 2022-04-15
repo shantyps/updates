@@ -1,0 +1,149 @@
+@include media-query($on-tablet) {
+
+  body { box-shadow: none; }
+
+  .wrapper {
+    @include transition(padding .3s ease-in-out);
+    padding: 120px 20px 50px;
+
+    &.active { padding: 30px 20px; }
+  }
+
+  .user-profile {
+    background: $white;
+    box-shadow: 0 0 30px rgba($black, .15);
+    height: 100%;
+    margin: 0;
+    padding: 40px 30px 30px;
+    position: fixed;
+    right: -100%;
+    top: 0;
+    width: 300px;
+    z-index: 9999;
+
+    &.active {
+      overflow-y: auto;
+      right: 0;
+
+      .compact-header {
+        box-shadow: none;
+        display: block;
+        padding: 0;
+        position: static;
+        top: -100px;
+        width: 100%;
+
+        .avatar { margin: 0 auto 5px; }
+
+        .my-info { text-align: center; }
+      }
+    }
+
+    .compact-header {
+      @include flexbox();
+      @include align-items();
+      background: $white;
+      box-shadow: 0 2px 10px rgba($black, .1), 0 -5px 0 $primary-color;
+      left: 0;
+      padding: 20px;
+      position: fixed;
+      top: 5px;
+      width: 100%;
+      z-index: 9998;
+
+      .avatar {
+        display: inline-block;
+        margin: 0 20px 0 0;
+
+        img {
+          height: 50px;
+          width: 50px;
+        }
+      }
+
+      .my-info {
+        text-align: left;
+
+        .my-name {
+          font-size: 18px;
+          line-height: 26px;
+        }
+
+        .my-job-title { font-size: 13px; }
+      }
+    }
+
+    .mainmenu,
+    .socials {
+      margin: 20px 0;
+    }
+
+    .about-me {
+      font-size: 15px;
+      line-height: 24px;
+      margin: 20px 0 0;
+    }
+
+    .burger {
+      display: block !important;
+      position: fixed;
+      right: 20px;
+      top: 40px;
+      z-index: 9999;
+    }
+  }
+
+  .the-content {
+    margin: 0;
+    width: 100%;
+  }
+
+  .backtotop {
+    background-size: 50% !important;
+    bottom: 10px !important;
+    height: 30px !important;
+    right: 10px !important;
+    width: 30px !important;
+  }
+}
+
+@include media-query($on-smaller-tablets) {
+  .the-content .post {
+    padding: 1rem 0.5rem 4rem;
+
+    .post-content {
+      .heading-marker {
+        @include transform-none();
+        font-size: inherit;
+        left: auto;
+        margin: 0 0 0 10px;
+        position: static;
+        top: auto;
+      }
+
+      .alignleft,
+      .alignright {
+        float: none;
+        margin: 20px 0;
+
+        img { width: 100%; }
+      }
+    }
+  }
+}
+
+@include media-query($on-phone) {
+  .wrapper {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .the-content {
+    .search > div .search-holder { width: 45%; }
+    .post .post-footer div.tags {
+      border-top: 1px solid $grey-color-lightest;
+      position: static;
+      text-align: left;
+    }
+  }
+}
