@@ -3,14 +3,50 @@ layout: post
 title: "Update #1: The Abattoir, the Warriors' Guild, and the Abyssal Sire"
 date: 2022-01-30
 comments: false
-tags: [abattoir, warriors guild, abyssal sire, slayer]
+tags: [town of luce, eldritch chasm, abattoir, warriors guild, abyssal sire, slayer]
 image: https://cdn.discordapp.com/attachments/405129714743771156/937514356567056454/unknown.png
 description: "In this update for Shanty RSPS, we worked on the Abattoir, the Warriors' Guild, and the Abyssal Sire."
 ---
 
-![The abattoir](https://cdn.discordapp.com/attachments/405129714743771156/937514356567056454/unknown.png)
+![The Abattoir fighting area](/assets/images/posts/update-1/abattoir-fighting.png)
+
 <iframe width="560" height="315" src="https://youtu.be/qM0yOiMz1aU" frameborder="0" allowfullscreen></iframe>
 
-
-
 ## The Abattoir
+
+The Abattoir, also known as the slaughterhouse, hosts the monsters that are invading Shanty Island and have not settled on our lands. From a RuneScape player's perspective, these monsters are the "useless" monsters. That is, it hosts Slayer monsters that are not likely to be killed outside of a Slayer task. This area serves as a means for the player to be able to find these tasks in an easier-to-find, central location.
+
+Outside, the dungeon to kill NPCs, there hosts a conflict between Guards and various invading NPCs.
+
+We will explore on how to expand the Abattoir's functions. Please comment in this thread if you have any ideas!
+
+![The Warriors' Guild basement](/assets/images/posts/update-1/warriors-guild-basement.png)
+
+<iframe width="560" height="315" src="https://youtu.be/3d28qKDivzE" frameborder="0" allowfullscreen></iframe>
+
+## The Warriors' Guild
+
+Let's be real, the only room most people use are the Animation rooms, the top floor, and the basements. After recognizing this, we decided to size down the Warriors' guild to functionally have these 3 areas.
+
+The Animation room is just as it was before. We're looking into expanding it to have support for dragon armour now that dragon armour is now a full set in OSRS. Why? Because why not!
+
+The top floor and basement Cyclops will be hosted in a newly made dungeon. Functionally, these Cyclops are just as they are in OSRS: a means to get the defenders. We will be expanding the existing Cyclops cave, shown in the image above, to include Lorelei and her higher leveled Cyclops monsters as well.
+
+![The Abyssal Sire being awaken and then stunned](/assets/images/posts/update-1/abyssal-sire-stunning.gif)
+
+![The Abyssal Sire transitioning to the second phase](/assets/images/posts/update-1/abyssal-sire-phase-2-start.gif)
+
+## The Abyssal Sire
+
+We've been pushing through with Slayer for a while now. We are now at a state where we are making the boss equivalents of the Slayer tasks to allow alternative methods to complete tasks. Right now, the Abyssal Sire - the Abyssal Demon boss - is an example of this in action.
+
+We haven't finished the Sire yet as there is much polishing left to do.
+
+___
+
+Thanks for reading our first update post! Our Rune-Server thread can be found [here][rune-server], and you can join our Discord [here][discord]!
+
+![Peaceful seagulls circling at the Town of Luce](/assets/images/posts/update-1/seagulls.gif)
+
+[rune-server]: https://www.rune-server.ee/runescape-development/rs2-server/projects/701423-shanty.html#post5763317 "Shanty RSPS - Rune-Server"
+[discord]: http://seashanty2.com/ "Shanty RSPS Discord"
