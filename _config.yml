@@ -1,28 +1,28 @@
 # General Settings
-name: Steven Harman
-title: Steven Harman
-job_title: Maker & Breaker of Things
-email: steven@harmanly.com
-description: Designer and developer of software. Believes the pursuit of beauty yields simplicity. Creator and consumer of open source software. Good at naps!
+name: Shanty
+title: Shanty
+job_title: Update Blog
+email: ''
+description: ''
 title_image: /assets/images/steven-avatar.jpg
 # avatar: https://example.com/hi.png
 favicon: /favicon.ico
-twitter_handler: stevenharman
-analytics_code: YFDWOMYW
-disqus: stevenharman
-github_username: stevenharman
+twitter_handler: ''
+analytics_code: ''
+disqus: ''
+github_username: ''
 
 # Social Accounts
 social_networks:
 - { name: facebook, url: '' }
-- { name: twitter, url: 'https://twitter.com/stevenharman' }
+- { name: twitter, url: '' }
 - { name: instagram, url: '' }
 - { name: google-plus, url: '' }
 - { name: linkedin, url: '' }
 - { name: skype, url: '' }
-- { name: github, url: 'https://github.com/stevenharman' }
+- { name: github, url: '' }
 - { name: codepen, url: '' }
-- { name: stack-overflow, url: 'https://stackoverflow.com/users/18152/stevenharman' }
+- { name: stack-overflow, url: '' }
 - { name: dribbble, url: '' }
 - { name: behance, url: '' }
 - { name: pinterest, url: '' }
@@ -38,7 +38,7 @@ social_networks:
 - { name: xing, url: '' }
 - { name: bitcoin, url: '' }
 - { name: pocket, url: '' }
-- { name: applemusic, url: 'https://itunes.apple.com/profile/stevenharman' }
+- { name: applemusic, url: '' }
 
 # Modules Settings
 show_categories: 0
@@ -67,8 +67,8 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://stevenharman.net"
-baseurl: ""
+url: "https://shanty.ps"
+baseurl: "updates"
 
 # Includes
 include: ["_pages"]
