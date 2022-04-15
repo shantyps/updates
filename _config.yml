@@ -10,7 +10,7 @@ favicon: /favicon.ico
 twitter_handler: ''
 analytics_code: ''
 disqus: ''
-github_username: ''
+github_username: 'SeaShantyPS'
 
 # Social Accounts
 social_networks:
@@ -68,7 +68,7 @@ defaults:
 
 # Serving
 url: "https://shanty.ps"
-baseurl: "/updates"
+baseurl: ""
 
 # Includes
 include: ["_pages"]
