@@ -68,7 +68,7 @@ defaults:
 
 # Serving
 url: "https://seashantyps.github.io"
-baseurl: "updates"
+baseurl: ""
 
 # Includes
 include: ["_pages"]
