@@ -3,7 +3,7 @@ name: Shanty
 title: Shanty
 job_title: Update Blog
 email: ''
-description: 'The RSPS with Sea Shanty 2 vibes — we have a reimagined RuneScape world map, the Warding skill, and overall are the most thought-out RuneScape Private Server to exist.'
+description: 'The RSPS with Sea Shanty 2 vibes - we have a reimagined RuneScape world map, the Warding skill, and overall are the most thought-out RuneScape Private Server to exist.'
 title_image: /assets/images/logo.png
 # avatar: https://example.com/hi.png
 favicon: /favicon.ico
@@ -11,6 +11,7 @@ twitter_handler: ''
 analytics_code: ''
 disqus: ''
 github_username: 'SeaShantyPS'
+rune_server: 'https://www.rune-server.ee/runescape-development/rs2-server/projects/701423-shanty.html#post5763317'
 
 # Social Accounts
 social_networks:
@@ -27,7 +28,7 @@ social_networks:
 - { name: behance, url: '' }
 - { name: pinterest, url: '' }
 - { name: tumblr, url: '' }
-- { name: youtube, url: '' }
+- { name: youtube, url: 'https://www.youtube.com/channel/UC-5pzcZgKo2c5Rs4CCe92Bw' }
 - { name: vimeo, url: '' }
 - { name: vine, url: '' }
 - { name: 500px, url: '' }
@@ -39,6 +40,7 @@ social_networks:
 - { name: bitcoin, url: '' }
 - { name: pocket, url: '' }
 - { name: applemusic, url: '' }
+- { name: reddit, url: 'https://www.reddit.com/user/shantyps' }
 
 # Modules Settings
 show_categories: 0
@@ -48,6 +50,7 @@ show_rss: 1
 show_comments: 1
 show_menu: 1
 fixed_sidebar: 1
+show_rune_server: 1
 
 # Plugins
 plugins:
