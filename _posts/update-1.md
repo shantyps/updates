@@ -4,7 +4,7 @@ title: "Update #1: The Abattoir, the Warriors' Guild, and the Abyssal Sire"
 date: 2022-01-30
 comments: false
 tags: [town of luce, eldritch chasm, abattoir, warriors guild, abyssal sire, slayer]
-image: https://cdn.discordapp.com/attachments/405129714743771156/937514356567056454/unknown.png
+image: /assets/images/posts/update-1/abattoir-fighting.png
 description: "In this update for Shanty RSPS, we worked on the Abattoir, the Warriors' Guild, and the Abyssal Sire."
 ---
 
