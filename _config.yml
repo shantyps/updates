@@ -67,8 +67,8 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://shanty.ps"
-baseurl: ""
+url: "https://seashantyps.github.io"
+baseurl: "/updates"
 
 # Includes
 include: ["_pages"]
