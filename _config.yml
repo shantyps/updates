@@ -70,7 +70,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://seashantyps.github.io"
+url: "https://shanty.ps"
 
 # Includes
 include: ["_pages"]
