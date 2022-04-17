@@ -41,6 +41,7 @@ social_networks:
 - { name: pocket, url: '' }
 - { name: applemusic, url: '' }
 - { name: reddit, url: 'https://www.reddit.com/user/shantyps' }
+- { name: discord, url: 'http://seashanty2.com/' }
 
 # Modules Settings
 show_categories: 0
