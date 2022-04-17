@@ -15,6 +15,7 @@ rune_server: 'https://www.rune-server.ee/runescape-development/rs2-server/projec
 
 # Social Accounts
 social_networks:
+- { name: discord, url: 'http://seashanty2.com/' }
 - { name: facebook, url: '' }
 - { name: twitter, url: '' }
 - { name: instagram, url: '' }
@@ -41,7 +42,6 @@ social_networks:
 - { name: pocket, url: '' }
 - { name: applemusic, url: '' }
 - { name: reddit, url: 'https://www.reddit.com/user/shantyps' }
-- { name: discord, url: 'http://seashanty2.com/' }
 
 # Modules Settings
 show_categories: 0
