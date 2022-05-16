@@ -12,6 +12,8 @@ Hey everyone, we're so happy that [Update 4](/updates/update-4) has been so well
 
 ![An outside image of the Slayer Tower in Shanty RSPS](/updates/assets/images/posts/slayer-tower-follow-up/outside.png)
 
+<!-- more -->
+
 ![An outside image of the Slayer Tower in Shanty RSPS](/updates/assets/images/posts/slayer-tower-follow-up/outside2.png)
 
 ![Floor 1 (USA) of the Slayer Tower in Shanty RSPS](/updates/assets/images/posts/slayer-tower-follow-up/floor-1.png)
